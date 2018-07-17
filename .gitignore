@@ -1,0 +1,4 @@
+*.pyc
+*Failed
+*Succeeded
+*toBeJudged
